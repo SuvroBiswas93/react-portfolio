@@ -18,21 +18,22 @@ export default function Hero() {
           </div>
 
           <div className="flex justify-center gap-6 mb-12 animate-fade-in">
-            <a href="https://github.com" className="text-gray-400 hover:text-white transition-colors">
+            <a target="_blank" href="https://github.com/SuvroBiswas93" className="text-gray-400 hover:text-white transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com" className="text-gray-400 hover:text-white transition-colors">
+            <a target="_blank" href="https://www.linkedin.com/in/the-suvro-biswas/" className="text-gray-400 hover:text-white transition-colors">
               <Linkedin size={24} />
             </a>
-            <a href="mailto:john@example.com" className="text-gray-400 hover:text-white transition-colors">
+            <a href="mailto:shuvo.249963@gmail.com" className="text-gray-400 hover:text-white transition-colors">
               <Mail size={24} />
             </a>
           </div>
 
           <div className="animate-bounce-slow">
             <a
-              href="/resume.pdf"
-              download
+              target='_blank'
+              download = "Suvro-biswas-resume.pdf"
+              href="https://drive.google.com/file/d/1CTtzi8mjqD-5KOFZXYBhpocMdJstxHjV/view?usp=sharing"
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors font-medium"
             >
               <FileDown className="mr-2" size={20} />

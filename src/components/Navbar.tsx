@@ -22,7 +22,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="text-2xl font-bold text-white">
-            Suvro Biswas
+            Suvro <span className="text-blue-500">Biswas</span>
           </a>
 
           <div className="hidden md:flex space-x-8">

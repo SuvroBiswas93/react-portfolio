@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Mail, MapPin, Phone } from 'lucide-react';
-import { collection, addDoc } from 'firebase/firestore';
-import { db } from '../lib/firebase';
+import { sendMail } from '../api/mail';
 import toast, { Toaster } from 'react-hot-toast';
 
 export default function Contact() {
@@ -17,10 +16,7 @@ export default function Contact() {
     setIsSubmitting(true);
 
     try {
-      await addDoc(collection(db, 'messages'), {
-        ...formData,
-        timestamp: new Date()
-      });
+      await sendMail({...formData});
       toast.success('Message sent successfully!');
       setFormData({ name: '', email: '', message: '' });
     } catch (error) {

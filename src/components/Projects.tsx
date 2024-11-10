@@ -4,10 +4,10 @@ import { ExternalLink, Github } from 'lucide-react';
 const projects = [
   {
     title: 'Project One',
-    description: 'A modern web application built with React and Node.js',
+    description: 'Random User Generator Web application built with React and Node.js',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015',
-    github: 'https://github.com',
-    demo: 'https://demo.com'
+    github: 'https://github.com/SuvroBiswas93/random-user-generator-react.git',
+    demo: 'https://random-user-generator-react-phi.vercel.app/'
   },
   {
     title: 'Project Two',

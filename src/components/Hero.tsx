@@ -21,10 +21,15 @@ export default function Hero() {
             <a target="_blank" href="https://github.com/SuvroBiswas93" className="text-gray-400 hover:text-white transition-colors">
               <Github size={24} />
             </a>
-            <a target="_blank" href="https://www.linkedin.com/in/the-suvro-biswas/" className="text-gray-400 hover:text-white transition-colors">
-              <Linkedin size={24} />
+            <a 
+            
+            target="_blank" 
+            href="https://www.linkedin.com/in/the-suvro-biswas/" 
+            className="text-gray-400 hover:text-blue-400 transition-colors">
+
+            <Linkedin size={24} />
             </a>
-            <a href="mailto:shuvo.249963@gmail.com" className="text-gray-400 hover:text-white transition-colors">
+            <a href="mailto:shuvo.249963@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
               <Mail size={24} />
             </a>
           </div>

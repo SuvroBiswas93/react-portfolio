@@ -18,21 +18,21 @@ export default function Footer() {
           <div className="flex space-x-6">
             <a
               href="https://facebook.com"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-blue-400 transition-colors"
               aria-label="Facebook"
             >
               <Facebook className="w-5 h-5" />
             </a>
             <a
               href="https://instagram.com"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-[#E4405F] transition-colors"
               aria-label="Instagram"
             >
               < Instagram className="w-5 h-5" />
             </a>
             <a
               href="mailto:shuvo.249963@gmail.com"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-cyan-400 transition-colors"
               aria-label="Email"
             >
               <Mail className="w-5 h-5" />

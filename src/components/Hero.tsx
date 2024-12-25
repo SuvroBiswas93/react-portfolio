@@ -13,7 +13,7 @@ export default function Hero() {
               Suvro <span className="text-blue-500">Biswas</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-8">
-              Full Stack Developer & UI/UX Designer
+              Frontend Web Developer
             </p>
           </div>
 
@@ -39,7 +39,7 @@ export default function Hero() {
               target='_blank'
               download = "Suvro-biswas-resume.pdf"
               href="https://drive.google.com/file/d/1CTtzi8mjqD-5KOFZXYBhpocMdJstxHjV/view?usp=sharing"
-              className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors font-medium"
+              className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-green-700 transition-colors font-medium"
             >
               <FileDown className="mr-2" size={20} />
               Download CV

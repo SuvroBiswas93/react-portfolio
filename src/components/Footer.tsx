@@ -4,6 +4,8 @@ import { Facebook,Instagram, Mail} from 'lucide-react';
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
+  /*Here need to change the footer color*/ 
+  
   return (
     <footer className="bg-gray-900 py-8 border-t border-gray-800">
       <div className="container mx-auto px-4">

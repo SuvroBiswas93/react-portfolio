@@ -3,10 +3,10 @@ import { GraduationCap} from 'lucide-react';
 
 const educationData = [
   {
-    degree: "Bachelor of Science in Computer Science",
+    degree: "Bachelor of Science in Computer Science And Engineering",
     institution: "American International University Bangladesh",
     description: "Relevant coursework in Data Structures, Algorithms, Web Development, and Database Management.",
-    gpa: "3.8/4.0"
+    gpa: "3.37/4.0"
   },
   {
     degree: "Higher Secondary Certificate (HSC)",

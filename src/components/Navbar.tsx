@@ -33,6 +33,8 @@ export default function Navbar() {
     }
   }, [hash]);
 
+  /*Here need to change the nav color*/ 
+  
   return (
     <nav
       className={`fixed w-full z-50 transition-all duration-300 ${

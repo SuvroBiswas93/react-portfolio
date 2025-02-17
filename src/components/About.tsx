@@ -13,7 +13,7 @@ export default function About() {
               className="w-32 h-32 mt-4 rounded-full mx-auto border-4 border-blue-500"
             />
             <h1 className="text-4xl font-bold text-white mb-2">Suvro Biswas</h1>
-            <p className="text-xl text-blue-400">Full Stack Developer</p>
+            <p className="text-xl text-blue-400">Front-end Web Developer</p>
           </div>
 
           <div className="space-y-6 text-gray-300">
@@ -22,9 +22,9 @@ export default function About() {
               <div>
                 <h2 className="text-xl font-semibold text-white mb-2">About Me</h2>
                 <p>
-                  I'm a passionate Full Stack Developer with a strong foundation in web technologies
-                  and a keen eye for creating user-friendly applications. With expertise in both
-                  frontend and backend development, I strive to build scalable and efficient solutions.
+                  I'm a passionate Front-end Web Developer with a strong foundation in web technologies
+                  and a keen eye for creating user-friendly applications. With expertise in frontend 
+                  development, I strive to build scalable and efficient solutions.
                 </p>
               </div>
             </div>
@@ -34,9 +34,9 @@ export default function About() {
               <div>
                 <h2 className="text-xl font-semibold text-white mb-2">What I Do</h2>
                 <ul className="list-disc list-inside space-y-2 ml-4">
-                  <li>Develop responsive and interactive web applications</li>
-                  <li>Create RESTful APIs and backend services</li>
-                  <li>Implement database solutions and optimize performance</li>
+                  <li>Develop responsive and interactive websites</li>
+                  <li>Fetch and display data using RESTful APIs, handle Authentication and interact with External Services </li>
+                  <li>Optimize websites for fast loading times and smooth performance</li>
                   <li>Write clean, maintainable, and well-documented code</li>
                 </ul>
               </div>
@@ -49,7 +49,7 @@ export default function About() {
                 <p>
                   Beyond coding, I'm passionate about open-source contribution, staying updated with
                   new technologies, and sharing knowledge with the developer community. I enjoy
-                  solving complex problems and turning ideas into reality through code.
+                  solving problems and turning ideas into reality through code.
                 </p>
               </div>
             </div>

@@ -19,6 +19,7 @@ export default function Footer() {
           
           <div className="flex space-x-6">
             <a
+              target ="_blank"
               href="https://facebook.com"
               className="text-gray-400 hover:text-blue-400 transition-colors"
               aria-label="Facebook"
@@ -26,6 +27,7 @@ export default function Footer() {
               <Facebook className="w-5 h-5" />
             </a>
             <a
+              target ="_blank"
               href="https://instagram.com"
               className="text-gray-400 hover:text-[#E4405F] transition-colors"
               aria-label="Instagram"

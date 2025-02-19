@@ -38,7 +38,7 @@ export default function Hero() {
             <a
               target='_blank'
               download = "Suvro-biswas-resume.pdf"
-              href="https://drive.google.com/file/d/1CTtzi8mjqD-5KOFZXYBhpocMdJstxHjV/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zxVkvSExiM_M4uKMQAd-BDCH0tl-S0uD/view?usp=drive_link"
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-green-700 transition-colors font-medium"
             >
               <FileDown className="mr-2" size={20} />

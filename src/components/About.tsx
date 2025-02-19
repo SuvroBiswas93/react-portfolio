@@ -35,7 +35,8 @@ export default function About() {
                 <h2 className="text-xl font-semibold text-white mb-2">What I Do</h2>
                 <ul className="list-disc list-inside space-y-2 ml-4">
                   <li>Develop responsive and interactive websites</li>
-                  <li>Fetch and display data using RESTful APIs, handle Authentication and interact with External Services </li>
+                  <li>Fetch and display data using RESTful APIs, handle Authentication and 
+                    interact with External Services </li>
                   <li>Optimize websites for fast loading times and smooth performance</li>
                   <li>Write clean, maintainable, and well-documented code</li>
                 </ul>
@@ -57,7 +58,7 @@ export default function About() {
 
           <div className="flex justify-center gap-6 mt-8">
             <a
-              href="https://github.com"
+              href="https://github.com/SuvroBiswas93"
               className="text-gray-400 hover:text-white transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -65,8 +66,8 @@ export default function About() {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
-              className="text-gray-400 hover:text-white transition-colors"
+              href="https://www.linkedin.com/in/the-suvro-biswas/"
+              className="text-gray-400 hover:text-blue-400 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -74,7 +75,7 @@ export default function About() {
             </a>
             <a
               href="mailto:shuvo.249963@gmail.com"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-cyan-400 transition-colors"
             >
               <Mail size={24} />
             </a>

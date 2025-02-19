@@ -9,7 +9,7 @@ const educationData = [
     gpa: "3.37/4.0"
   },
   {
-    degree: "Higher Secondary Certificate (HSC)",
+    degree: "Higher Secondary School Certificate (HSC)",
     institution: "Magura Govt HSS college",
     description: "Major in Science ",
     gpa: "4.30/5.0"

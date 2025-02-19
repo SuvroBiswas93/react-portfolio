@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Tourism Website',
     description: 'Tourism Website Built with React.js , Tailwind css',
-    image: 'https://images.pexels.com/photos/1659438/pexels-photo-1659438.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&w=600',
     github: 'https://github.com/SuvroBiswas93/Tourism-website.git',
     demo: 'https://destination-travel-theta.vercel.app/'
   },

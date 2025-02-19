@@ -3,18 +3,18 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'Random User Generator Web application built with React and Node.js',
+    title: 'Tourism Website',
+    description: 'Tourism Website Built with React.js , Tailwind css',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015',
-    github: 'https://github.com/SuvroBiswas93/random-user-generator-react.git',
-    demo: 'https://random-user-generator-react-phi.vercel.app/'
+    github: 'https://github.com/SuvroBiswas93/Tourism-website.git',
+    demo: 'https://destination-travel-theta.vercel.app/'
   },
   {
-    title: 'Project Two',
-    description: 'Mobile-first e-commerce platform using Next.js',
+    title: 'E-commerce Website',
+    description: 'E-commerce Website Built with React.js , tailwind css',
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072',
-    github: 'https://github.com',
-    demo: 'https://demo.com'
+    github: 'https://github.com/SuvroBiswas93/e-commerce-website.git',
+    demo: 'https://modernshop-e-commerce-website.vercel.app/'
   },
   {
     title: 'Project Three',
@@ -57,7 +57,7 @@ export default function Projects() {
                     href={project.demo}
                     className="text-blue-400 hover:text-blue-300 transition-colors inline-flex items-center"
                   >
-                    <ExternalLink size={20} className="mr-1" /> Demo
+                    <ExternalLink size={20} className="mr-1" /> Live Demo
                   </a>
                 </div>
               </div>

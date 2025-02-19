@@ -12,7 +12,7 @@ const educationData = [
     degree: "Higher Secondary Certificate (HSC)",
     institution: "Magura Govt HSS college",
     description: "Major in Science ",
-    gpa: "5.0/5.0"
+    gpa: "4.30/5.0"
   }
 ];
 

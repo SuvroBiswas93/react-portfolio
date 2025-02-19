@@ -11,17 +11,17 @@ const projects = [
   },
   {
     title: 'E-commerce Website',
-    description: 'E-commerce Website Built with React.js , tailwind css',
+    description: 'E-commerce Website Built with React.js , Tailwind css',
     image: 'https://images.pexels.com/photos/6214386/pexels-photo-6214386.jpeg?auto=compress&cs=tinysrgb&w=600',
     github: 'https://github.com/SuvroBiswas93/e-commerce-website.git',
     demo: 'https://modernshop-e-commerce-website.vercel.app/'
   },
   {
     title: 'Project Three',
-    description: 'Real-time chat application with WebSocket',
+    description: 'Landing Page Built with React.js, Tailwind css, Digtital Animation ',
     image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070',
-    github: 'https://github.com',
-    demo: 'https://demo.com'
+    github: 'https://github.com/SuvroBiswas93/business-landing-page.git',
+    demo: 'https://landing-page-design-eight-topaz.vercel.app/'
   }
 ];
 

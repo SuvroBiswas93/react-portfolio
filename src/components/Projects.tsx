@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'E-commerce Website',
     description: 'E-commerce Website Built with React.js , tailwind css',
-    image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072',
+    image: 'https://images.pexels.com/photos/6214386/pexels-photo-6214386.jpeg?auto=compress&cs=tinysrgb&w=600',
     github: 'https://github.com/SuvroBiswas93/e-commerce-website.git',
     demo: 'https://modernshop-e-commerce-website.vercel.app/'
   },

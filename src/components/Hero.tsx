@@ -34,7 +34,7 @@ export default function Hero() {
             </a>
           </div>
 
-          <div className="animate-bounce-slow">
+          {/* <div className="animate-bounce-slow">
             <a
               target='_blank'
               download = "Suvro-biswas-resume.pdf"
@@ -44,7 +44,7 @@ export default function Hero() {
               <FileDown className="mr-2" size={20} />
               Download CV
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 

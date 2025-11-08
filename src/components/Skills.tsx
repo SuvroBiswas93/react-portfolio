@@ -5,7 +5,7 @@ const skills = [
   {
     category: 'Frontend Development',
     icon: <Layout className="w-6 h-6" />,
-    items: ['JavaScript','React.js','TypeScript', 'Tailwind CSS', 'Redux']
+    items: ['JavaScript','React js', 'Tailwind CSS', 'Firebase','Auth']
   },
   {
     category: 'Tools & Others',
